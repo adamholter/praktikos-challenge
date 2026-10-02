@@ -1,0 +1,1183 @@
+{
+  "schemaVersion": 1,
+  "game": "Praktikos",
+  "sources": [
+    {
+      "id": "trailer",
+      "type": "user-supplied-video",
+      "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+      "width": 1280,
+      "height": 720,
+      "fps": "60/1",
+      "durationSec": 53.013333
+    },
+    {
+      "id": "ss-01",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-01.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/460efdeeb6f513cf588a3521f3e687c35e17c019/ss_460efdeeb6f513cf588a3521f3e687c35e17c019.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-02",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-02.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/bcec449d5fdc098832b0c6674433e031fcb5e9fa/ss_bcec449d5fdc098832b0c6674433e031fcb5e9fa.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-03",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-03.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/ce0cfcc42957da27f7d8431812b4186170bc1ef0/ss_ce0cfcc42957da27f7d8431812b4186170bc1ef0.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-04",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-04.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/4b6687cfba214986294881a53b7e3c23c725f892/ss_4b6687cfba214986294881a53b7e3c23c725f892.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-05",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-05.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/3acc66c970a5b131e732da7b1fd2c428dd3ad7d4/ss_3acc66c970a5b131e732da7b1fd2c428dd3ad7d4.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-06",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-06.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/5636cc066c053a8548885fb1d673c74f909da7a8/ss_5636cc066c053a8548885fb1d673c74f909da7a8.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-07",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-07.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/6e3a35e8f742ee66377ee61f1d13ed79686efe12/ss_6e3a35e8f742ee66377ee61f1d13ed79686efe12.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-08",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-08.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-09",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-09.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/0fa4fc959b5a13cbc12f4a07dd4e9351a39fe808/ss_0fa4fc959b5a13cbc12f4a07dd4e9351a39fe808.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-10",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-10.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/1cc6cec87d8a100af1fade64cffc9a24935245a9/ss_1cc6cec87d8a100af1fade64cffc9a24935245a9.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-11",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-11.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/f6585766d837a08f1512998745b3d0e2173a01e0/ss_f6585766d837a08f1512998745b3d0e2173a01e0.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-12",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-12.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/37232b98ab4931b2ab4ea4ca0fc334cd9566559d/ss_37232b98ab4931b2ab4ea4ca0fc334cd9566559d.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-13",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-13.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/26ba9641ea9581524ae8668d44d8322610c17109/ss_26ba9641ea9581524ae8668d44d8322610c17109.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "ss-14",
+      "type": "official-Steam-gallery-screenshot",
+      "file": "ss-14.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/858fdf98aa2e766b3570dbef71b19bffa92c2e2c/ss_858fdf98aa2e766b3570dbef71b19bffa92c2e2c.1920x1080.jpg?t=1790909455",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "assets": [
+    {
+      "id": "cavern-green",
+      "kind": "background",
+      "path": "/assets/backgrounds/cavern-green.png",
+      "width": 252,
+      "height": 720,
+      "source": {
+        "id": "trailer-5s",
+        "type": "trailer",
+        "rect": [
+          1028,
+          0,
+          252,
+          720
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 5
+      },
+      "notes": "Clean cave wall strip."
+    },
+    {
+      "id": "cavern-purple",
+      "kind": "background",
+      "path": "/assets/backgrounds/cavern-purple.png",
+      "width": 245,
+      "height": 720,
+      "source": {
+        "id": "trailer-3s",
+        "type": "trailer",
+        "rect": [
+          0,
+          0,
+          245,
+          720
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 3
+      },
+      "notes": "Clean cave wall strip."
+    },
+    {
+      "id": "cavern-red",
+      "kind": "background",
+      "path": "/assets/backgrounds/cavern-red.png",
+      "width": 245,
+      "height": 720,
+      "source": {
+        "id": "trailer-4s",
+        "type": "trailer",
+        "rect": [
+          0,
+          0,
+          245,
+          720
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 4
+      },
+      "notes": "Clean cave wall strip."
+    },
+    {
+      "id": "board-frame-left",
+      "kind": "board-texture",
+      "path": "/assets/ui/board-frame-left.png",
+      "width": 43,
+      "height": 380,
+      "source": {
+        "id": "trailer-8s",
+        "type": "trailer",
+        "rect": [
+          418,
+          86,
+          43,
+          380
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 8
+      },
+      "notes": "Left outer board frame strip."
+    },
+    {
+      "id": "board-frame-top",
+      "kind": "board-texture",
+      "path": "/assets/ui/board-frame-top.png",
+      "width": 414,
+      "height": 37,
+      "source": {
+        "id": "trailer-8s",
+        "type": "trailer",
+        "rect": [
+          418,
+          51,
+          414,
+          37
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 8
+      },
+      "notes": "Top outer board frame strip."
+    },
+    {
+      "id": "board-slot-empty",
+      "kind": "board-texture",
+      "path": "/assets/ui/board-slot-empty.png",
+      "width": 95,
+      "height": 139,
+      "source": {
+        "id": "trailer-8s",
+        "type": "trailer",
+        "rect": [
+          577,
+          98,
+          95,
+          139
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 8
+      },
+      "notes": "Empty inset board slot."
+    },
+    {
+      "id": "golden-phoenix",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/golden-phoenix.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          603,
+          537,
+          60,
+          80
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "living-treasure",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/living-treasure.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          604,
+          169,
+          56,
+          79
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "pink-sigil",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/pink-sigil.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          807,
+          414,
+          57,
+          72
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "portal",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/portal.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          395,
+          46,
+          57,
+          80
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "raven",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/raven.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          601,
+          46,
+          61,
+          80
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "rising-crown",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/rising-crown.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          396,
+          291,
+          56,
+          83
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "tower",
+      "kind": "board-tile-art",
+      "path": "/assets/board-tiles/tower.png",
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          705,
+          169,
+          56,
+          79
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Art-only crop from trailer 25s board tile, inset to exclude its frame and stat markers."
+    },
+    {
+      "id": "blockade",
+      "kind": "card-art",
+      "path": "/assets/cards/blockade.png",
+      "width": 174,
+      "height": 114,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          248,
+          205,
+          164,
+          106
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "broken-sigil",
+      "kind": "card-art",
+      "path": "/assets/cards/broken-sigil.png",
+      "width": 177,
+      "height": 115,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          604,
+          206,
+          167,
+          105
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "crimson-bomb",
+      "kind": "card-art",
+      "path": "/assets/cards/crimson-bomb.png",
+      "width": 259,
+      "height": 167,
+      "source": {
+        "id": "trailer-16s",
+        "type": "trailer",
+        "rect": [
+          960,
+          202,
+          259,
+          167
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 16
+      },
+      "notes": "Large card preview."
+    },
+    {
+      "id": "crimson-serpent",
+      "kind": "card-art",
+      "path": "/assets/cards/crimson-serpent.png",
+      "width": 254,
+      "height": 122,
+      "source": {
+        "id": "trailer-23s",
+        "type": "trailer",
+        "rect": [
+          964,
+          197,
+          254,
+          122
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 23
+      },
+      "notes": "Large card preview."
+    },
+    {
+      "id": "cursed-coin",
+      "kind": "card-art",
+      "path": "/assets/cards/cursed-coin.png",
+      "width": 288,
+      "height": 202,
+      "source": {
+        "id": "ss-13",
+        "type": "steam",
+        "rect": [
+          389,
+          413,
+          288,
+          202
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/26ba9641ea9581524ae8668d44d8322610c17109/ss_26ba9641ea9581524ae8668d44d8322610c17109.1920x1080.jpg?t=1790909455",
+        "file": "ss-13.jpg"
+      },
+      "notes": "Named Cursed Coin card art."
+    },
+    {
+      "id": "dark-merchant",
+      "kind": "card-art",
+      "path": "/assets/cards/dark-merchant.png",
+      "width": 79,
+      "height": 92,
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          699,
+          285,
+          79,
+          92
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Gold card crop, exact title unreadable; mapping provisional.",
+      "confidence": "medium"
+    },
+    {
+      "id": "emperor",
+      "kind": "card-art",
+      "path": "/assets/cards/emperor.png",
+      "width": 77,
+      "height": 88,
+      "source": {
+        "id": "trailer-20s",
+        "type": "trailer",
+        "rect": [
+          531,
+          199,
+          77,
+          88
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 20
+      },
+      "notes": "Board card art, name shown on tooltip."
+    },
+    {
+      "id": "enraged-minotaur",
+      "kind": "card-art",
+      "path": "/assets/cards/enraged-minotaur.png",
+      "width": 130,
+      "height": 82,
+      "source": {
+        "id": "trailer-20s",
+        "type": "trailer",
+        "rect": [
+          408,
+          532,
+          130,
+          82
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 20
+      },
+      "notes": "Large card preview."
+    },
+    {
+      "id": "gold-gargoyle",
+      "kind": "card-art",
+      "path": "/assets/cards/gold-gargoyle.png",
+      "width": 80,
+      "height": 80,
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          697,
+          171,
+          80,
+          80
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Gold card crop, exact title unreadable; mapping provisional.",
+      "confidence": "medium"
+    },
+    {
+      "id": "golden-contract",
+      "kind": "card-art",
+      "path": "/assets/cards/golden-contract.png",
+      "width": 257,
+      "height": 173,
+      "source": {
+        "id": "trailer-25s",
+        "type": "trailer",
+        "rect": [
+          963,
+          234,
+          257,
+          173
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Large card preview."
+    },
+    {
+      "id": "magma-fist",
+      "kind": "card-art",
+      "path": "/assets/cards/magma-fist.png",
+      "width": 324,
+      "height": 258,
+      "source": {
+        "id": "ss-07",
+        "type": "steam",
+        "rect": [
+          866,
+          1010,
+          172,
+          70
+        ],
+        "file": "ss-07.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/6e3a35e8f742ee66377ee61f1d13ed79686efe12/ss_6e3a35e8f742ee66377ee61f1d13ed79686efe12.1920x1080.jpg?t=1790909455"
+      },
+      "notes": "Exact named Magma Fist hand-card art crop from Steam ss07, inset from its orange frame."
+    },
+    {
+      "id": "poison-rose",
+      "kind": "card-art",
+      "path": "/assets/cards/poison-rose.png",
+      "width": 121,
+      "height": 82,
+      "source": {
+        "id": "trailer-43s",
+        "type": "trailer",
+        "rect": [
+          414,
+          520,
+          121,
+          82
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 43
+      },
+      "notes": "Large card preview."
+    },
+    {
+      "id": "scout",
+      "kind": "card-art",
+      "path": "/assets/cards/scout.png",
+      "width": 174,
+      "height": 120,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          248,
+          785,
+          164,
+          110
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "stray-blade",
+      "kind": "card-art",
+      "path": "/assets/cards/stray-blade.png",
+      "width": 174,
+      "height": 120,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          607,
+          785,
+          164,
+          110
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "wanderer",
+      "kind": "card-art",
+      "path": "/assets/cards/wanderer.png",
+      "width": 172,
+      "height": 120,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          955,
+          785,
+          162,
+          110
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "drifter",
+      "kind": "card-art-extra",
+      "path": "/assets/cards/drifter.png",
+      "width": 172,
+      "height": 114,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          955,
+          206,
+          162,
+          104
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "flicker",
+      "kind": "card-art-extra",
+      "path": "/assets/cards/flicker.png",
+      "width": 174,
+      "height": 122,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          248,
+          495,
+          164,
+          112
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "last-light",
+      "kind": "card-art-extra",
+      "path": "/assets/cards/last-light.png",
+      "width": 176,
+      "height": 122,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          605,
+          495,
+          166,
+          112
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "outpost",
+      "kind": "card-art-extra",
+      "path": "/assets/cards/outpost.png",
+      "width": 172,
+      "height": 122,
+      "source": {
+        "id": "ss-08",
+        "type": "steam",
+        "rect": [
+          955,
+          495,
+          162,
+          112
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/480e141b54e44c24249293621052f45dfa222aef/ss_480e141b54e44c24249293621052f45dfa222aef.1920x1080.jpg?t=1790909455",
+        "file": "ss-08.jpg"
+      },
+      "notes": "Art-only crop from official Steam card library screenshot, inset from the card frame."
+    },
+    {
+      "id": "preview-card-golden",
+      "kind": "card-frame-reference",
+      "path": "/assets/ui/preview-card-golden.png",
+      "source": {
+        "id": "trailer-golden-contract-preview",
+        "type": "trailer",
+        "rect": [
+          929,
+          157,
+          319,
+          395
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 25
+      },
+      "notes": "Full fixed Golden Contract card for frame/layout reference. Contains fixed title, art, rules text, and stats."
+    },
+    {
+      "id": "preview-card-red",
+      "kind": "card-frame-reference",
+      "path": "/assets/ui/preview-card-red.png",
+      "source": {
+        "id": "trailer-crimson-bomb-preview",
+        "type": "trailer",
+        "rect": [
+          900,
+          116,
+          354,
+          437
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 16
+      },
+      "notes": "Full fixed Crimson Bomb card for frame/layout reference. Contains fixed title, art, rules text, and stats."
+    },
+    {
+      "id": "forge-anvil-scene",
+      "kind": "forge-art",
+      "path": "/assets/ui/forge-anvil-scene.png",
+      "width": 1280,
+      "height": 720,
+      "source": {
+        "id": "trailer-32s",
+        "type": "trailer",
+        "rect": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 32
+      },
+      "notes": "Anvil scene before card placement."
+    },
+    {
+      "id": "hud-candidate-ss03",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-candidate-ss03.png",
+      "source": {
+        "id": "ss-03",
+        "type": "steam",
+        "rect": [
+          80,
+          67,
+          138,
+          159
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/ce0cfcc42957da27f7d8431812b4186170bc1ef0/ss_ce0cfcc42957da27f7d8431812b4186170bc1ef0.1920x1080.jpg?t=1790909455",
+        "file": "ss-03.jpg"
+      },
+      "notes": "Pink skull-like avatar; sin identity unverified."
+    },
+    {
+      "id": "hud-candidate-ss14",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-candidate-ss14.png",
+      "source": {
+        "id": "ss-14",
+        "type": "steam",
+        "rect": [
+          80,
+          66,
+          138,
+          158
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/858fdf98aa2e766b3570dbef71b19bffa92c2e2c/ss_858fdf98aa2e766b3570dbef71b19bffa92c2e2c.1920x1080.jpg?t=1790909455",
+        "file": "ss-14.jpg"
+      },
+      "notes": "Pink/red horned avatar; sin identity unverified."
+    },
+    {
+      "id": "hud-envy",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-envy.png",
+      "source": {
+        "id": "ss-05",
+        "type": "steam",
+        "rect": [
+          80,
+          69,
+          135,
+          157
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/3acc66c970a5b131e732da7b1fd2c428dd3ad7d4/ss_3acc66c970a5b131e732da7b1fd2c428dd3ad7d4.1920x1080.jpg?t=1790909455",
+        "file": "ss-05.jpg"
+      },
+      "notes": "Likely Envy, green face; identity inferred from visual palette."
+    },
+    {
+      "id": "hud-greed",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-greed.png",
+      "source": {
+        "id": "ss-04",
+        "type": "steam",
+        "rect": [
+          79,
+          69,
+          136,
+          162
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/4b6687cfba214986294881a53b7e3c23c725f892/ss_4b6687cfba214986294881a53b7e3c23c725f892.1920x1080.jpg?t=1790909455",
+        "file": "ss-04.jpg"
+      },
+      "notes": "Likely Greed, gold skull; identity inferred from visual palette."
+    },
+    {
+      "id": "hud-lust",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-lust.png",
+      "source": {
+        "id": "ss-07",
+        "type": "steam",
+        "rect": [
+          82,
+          63,
+          132,
+          165
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/6e3a35e8f742ee66377ee61f1d13ed79686efe12/ss_6e3a35e8f742ee66377ee61f1d13ed79686efe12.1920x1080.jpg?t=1790909455",
+        "file": "ss-07.jpg"
+      },
+      "notes": "Likely Lust, matched by pink female portrait and trailer carousel art."
+    },
+    {
+      "id": "hud-sinner",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-sinner.png",
+      "source": {
+        "id": "ss-04",
+        "type": "steam",
+        "rect": [
+          80,
+          875,
+          132,
+          148
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/4b6687cfba214986294881a53b7e3c23c725f892/ss_4b6687cfba214986294881a53b7e3c23c725f892.1920x1080.jpg?t=1790909455",
+        "file": "ss-04.jpg"
+      },
+      "notes": "Likely The Sinner, dark hood and yellow eyes; identity inferred from visual matching."
+    },
+    {
+      "id": "hud-sloth",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-sloth.png",
+      "source": {
+        "id": "ss-12",
+        "type": "steam",
+        "rect": [
+          76,
+          82,
+          140,
+          143
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/37232b98ab4931b2ab4ea4ca0fc334cd9566559d/ss_37232b98ab4931b2ab4ea4ca0fc334cd9566559d.1920x1080.jpg?t=1790909455",
+        "file": "ss-12.jpg"
+      },
+      "notes": "Sloth avatar, matched to labeled Sloth carousel art."
+    },
+    {
+      "id": "hud-wrath",
+      "kind": "hud-portrait",
+      "path": "/assets/portraits/hud-wrath.png",
+      "source": {
+        "id": "ss-07",
+        "type": "steam",
+        "rect": [
+          78,
+          867,
+          141,
+          162
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/6e3a35e8f742ee66377ee61f1d13ed79686efe12/ss_6e3a35e8f742ee66377ee61f1d13ed79686efe12.1920x1080.jpg?t=1790909455",
+        "file": "ss-07.jpg"
+      },
+      "notes": "Wrath avatar, matched by orange horned portrait and labeled trailer selection."
+    },
+    {
+      "id": "hud-the_sinner",
+      "kind": "hud-portrait-alias",
+      "path": "/assets/portraits/hud-sinner.png",
+      "source": {
+        "id": "ss-04",
+        "type": "steam",
+        "rect": [
+          80,
+          875,
+          132,
+          148
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/4b6687cfba214986294881a53b7e3c23c725f892/ss_4b6687cfba214986294881a53b7e3c23c725f892.1920x1080.jpg?t=1790909455",
+        "file": "ss-04.jpg"
+      },
+      "notes": "Alias of hud-sinner.png for the `the_sinner` runtime ID."
+    },
+    {
+      "id": "logo-praktikos",
+      "kind": "logo",
+      "path": "/assets/ui/logo-praktikos.png",
+      "source": {
+        "id": "trailer-end-card",
+        "type": "trailer",
+        "rect": [
+          206,
+          164,
+          850,
+          220
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 51
+      },
+      "notes": "Trailer wordmark, with edge-connected black backdrop made transparent."
+    },
+    {
+      "id": "map-route",
+      "kind": "map-art",
+      "path": "/assets/backgrounds/map-route.png",
+      "width": 563,
+      "height": 440,
+      "source": {
+        "id": "ss-11",
+        "type": "steam",
+        "rect": [
+          0,
+          0,
+          1645,
+          1080
+        ],
+        "file": "ss-11.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/f6585766d837a08f1512998745b3d0e2173a01e0/ss_f6585766d837a08f1512998745b3d0e2173a01e0.1920x1080.jpg?t=1790909455"
+      },
+      "notes": "Official route map crop, excluding the right-hand legend panel."
+    },
+    {
+      "id": "sin-envy",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-envy.png",
+      "width": 230,
+      "height": 377,
+      "source": {
+        "id": "ss-01",
+        "type": "steam",
+        "rect": [
+          527,
+          371,
+          230,
+          350
+        ],
+        "file": "ss-01.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/460efdeeb6f513cf588a3521f3e687c35e17c019/ss_460efdeeb6f513cf588a3521f3e687c35e17c019.1920x1080.jpg?t=1790909455"
+      },
+      "notes": "Green figure beside the labeled Sloth card; identity inferred from color.",
+      "confidence": "medium"
+    },
+    {
+      "id": "sin-gluttony",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-gluttony.png",
+      "width": 149,
+      "height": 246,
+      "source": {
+        "id": "ss-01",
+        "type": "steam",
+        "rect": [
+          1181,
+          369,
+          231,
+          352
+        ],
+        "file": "ss-01.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/460efdeeb6f513cf588a3521f3e687c35e17c019/ss_460efdeeb6f513cf588a3521f3e687c35e17c019.1920x1080.jpg?t=1790909455"
+      },
+      "notes": "Large purple figure beside the labeled Sloth card; identity inferred from shape and color.",
+      "confidence": "medium"
+    },
+    {
+      "id": "sin-greed",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-greed.png",
+      "width": 176,
+      "height": 217,
+      "source": {
+        "id": "trailer-5s",
+        "type": "trailer",
+        "rect": [
+          801,
+          250,
+          149,
+          243
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 5
+      },
+      "notes": "Gold crouched figure from the labeled Sinner carousel; Greed identity inferred from gold palette.",
+      "confidence": "medium"
+    },
+    {
+      "id": "sin-lust",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-lust.png",
+      "width": 233,
+      "height": 319,
+      "source": {
+        "id": "trailer-3s",
+        "type": "trailer",
+        "rect": [
+          515,
+          230,
+          205,
+          291
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 3
+      },
+      "notes": "Labeled Lust carousel art, cropped inside the card frame."
+    },
+    {
+      "id": "sin-pride",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-pride.png",
+      "width": 231,
+      "height": 379,
+      "source": {
+        "id": "ss-14",
+        "type": "steam",
+        "rect": [
+          78,
+          73,
+          139,
+          149
+        ],
+        "file": "ss-14.jpg",
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/858fdf98aa2e766b3570dbef71b19bffa92c2e2c/ss_858fdf98aa2e766b3570dbef71b19bffa92c2e2c.1920x1080.jpg?t=1790909455"
+      },
+      "notes": "Unlabeled pink/red HUD face candidate; Pride identity is unverified.",
+      "confidence": "medium"
+    },
+    {
+      "id": "sin-sloth",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-sloth.png",
+      "width": 355,
+      "height": 483,
+      "source": {
+        "id": "ss-01",
+        "type": "steam",
+        "rect": [
+          795,
+          278,
+          345,
+          465
+        ],
+        "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475910/460efdeeb6f513cf588a3521f3e687c35e17c019/ss_460efdeeb6f513cf588a3521f3e687c35e17c019.1920x1080.jpg?t=1790909455",
+        "file": "ss-01.jpg"
+      },
+      "notes": "Centered Sloth selection art."
+    },
+    {
+      "id": "sin-wrath",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/sin-wrath.png",
+      "width": 229,
+      "height": 282,
+      "source": {
+        "id": "trailer-4s",
+        "type": "trailer",
+        "rect": [
+          494,
+          222,
+          193,
+          302
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 4
+      },
+      "notes": "Labeled Wrath carousel art, cropped inside the card frame."
+    },
+    {
+      "id": "the-sinner",
+      "kind": "sin-portrait",
+      "path": "/assets/portraits/the-sinner.png",
+      "width": 240,
+      "height": 313,
+      "source": {
+        "id": "trailer-5s",
+        "type": "trailer",
+        "rect": [
+          518,
+          216,
+          250,
+          326
+        ],
+        "file": "f2b84232-86ed-4dd0-b074-7ca83f7fb6ee-34030a39-f09a-445e-a2ca-3fd54bd2a0c9-mp4.mp4",
+        "timeSec": 5
+      },
+      "notes": "Art-only crop from centered labeled carousel card, without frame or neighboring card."
+    }
+  ],
+  "notes": [
+    "Every raster file is a direct crop from the user-supplied trailer or public Steam gallery screenshots. No generated art was used.",
+    "Source rects use [x, y, width, height] in the original video frame or screenshot.",
+    "Some Sin identities are inferred from portrait color and shape because the source capture does not label them. HUD candidate assets remain unassigned.",
+    "The manifest contains source filenames and URLs only. It omits absolute local paths and temporary download fields."
+  ]
+}

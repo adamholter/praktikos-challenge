@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.next/
+.wrangler/
+.env*
+!.env.example
+.DS_Store
+reference/source*
+reference/frames/
+*.tar.gz
+.vinext/
+*.tsbuildinfo
+reference/dependency-audit.json
